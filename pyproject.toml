@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "mobileleafyproblem"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "my first project"
+authors = ["Ivan Yastrebov <easy-quest@mail.ru>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
