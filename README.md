@@ -25,3 +25,10 @@ div.pagination a.btn.btn_red.btn_inline.pagination__item.pagination__item--next.
 alize-space(@class), ' '), ' pagination__item--next ')]" data='<a class="btn
  btn_red btn_inline pagi...'>]
 /html/body/div[2]/div[2]/div/div[2]/div/div[2]/div/div/a[6]
+
+pipfreeze  > requirements.in;pip-compile 
+
+
+
+
+https://gis-lab.info/qa/scrapy.html
